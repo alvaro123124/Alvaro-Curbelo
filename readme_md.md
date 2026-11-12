@@ -118,12 +118,8 @@ def ensamblar_wellington(carne, jamon, duxelles, hojaldre):
 
 ### Galería de Imágenes 
 
-*Imágenes ilustrativas del proceso (Internet y Local)*
 
 ![Beef Wellington Terminado](Solomillo-Wellington.jpg "Wellington Perfecto de Internet")
-
-
-*Nota: La imagen local requiere que exista una carpeta `img` con el archivo en el repositorio.*
 
 ---
 
@@ -220,11 +216,4 @@ sequenceDiagram
 [Volver al Índice](#indice)
 
 *   [Página oficial de Gordon Ramsay](https://www.gordonramsay.com/ "Web del Chef Gordon Ramsay")
-*   [Receta original en YouTube](https://www.youtube.com/ "Video de la receta")
-*   Archivo interno: [Ver Guía de Cortes de Carne](./cortes_carne.md "Guía local") *(Ejemplo de enlace interno)*
 
----
-<p align="center">
-  <b>Hecho con 🔪 y ❤️ para el módulo de Entornos de Desarrollo.</b><br>
-  <i>(AE01_07_tunombre)</i>
-</p>
