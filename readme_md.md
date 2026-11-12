@@ -120,9 +120,8 @@ def ensamblar_wellington(carne, jamon, duxelles, hojaldre):
 
 *Imágenes ilustrativas del proceso (Internet y Local)*
 
-![Beef Wellington Terminado](https://images.unsplash.com/photo-1600891964092-4316c288032e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80 "Wellington Perfecto de Internet")
+![Beef Wellington Terminado](Solomillo-Wellington.jpg "Wellington Perfecto de Internet")
 
-![Esquema Local](./img/esquema_wellington.jpg "Esquema local del corte (Simulado)")
 
 *Nota: La imagen local requiere que exista una carpeta `img` con el archivo en el repositorio.*
 
