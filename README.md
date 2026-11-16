@@ -10,7 +10,7 @@
 
 ---
 
-# Introducción a la Receta 
+# Introducción a la Receta  :meat_on_bone:
 [Volver al Índice](#indice)
 
 El **Solomillo Wellington** (o *Beef Wellington* en inglés) es una preparación clásica y elegante. Esta versión está basada en la famosa receta del chef británico ***Gordon Ramsay***. Es un plato que combina texturas crujientes, sabores intensos de la tierra y una carne jugosa.
