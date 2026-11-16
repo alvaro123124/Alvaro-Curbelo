@@ -31,7 +31,7 @@ En este proyecto, no solo documentaremos cómo hacerlo, sino que analizaremos el
 
 ---
 
-# Ingredientes y Materiales 
+# Ingredientes y Materiales :yum:
 [Volver al Índice](#indice)
 
 Para conseguir el éxito en esta receta, es fundamental tener *mise en place* (todo preparado y en su sitio). 
@@ -84,7 +84,7 @@ A continuación, se presentan tres tablas con diferentes alineaciones (Izquierda
 
 ---
 
-# Proceso de Preparación 
+# Proceso de Preparación :man_with_turban:
 [Volver al Índice](#indice)
 
 Aquí detallamos el paso a paso. Es vital respetar los tiempos de reposo en frío.
@@ -124,7 +124,7 @@ def ensamblar_wellington(carne, jamon, duxelles, hojaldre):
 
 ---
 
-# Análisis Científico y Tiempos 
+# Análisis Científico y Tiempos :globe_with_meridians:
 [Volver al Índice](#indice)
 
 La cocina es pura química y matemáticas. Vamos a utilizar el lenguaje `LaTeX` para demostrar algunas fórmulas aplicadas a esta receta.
@@ -230,7 +230,7 @@ sequenceDiagram
 
 ---
 
-# Referencias y Anexos 
+# Referencias y Anexos :trollface:
 [Volver al Índice](#indice)
 
 *   [Página oficial de Gordon Ramsay](https://www.gordonramsay.com/ "Web del Chef Gordon Ramsay")
