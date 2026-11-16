@@ -2,10 +2,10 @@
 # Índice de Contenidos 
 
 - Introducción a la Receta
-- [Ingredientes y Materiales ](#ingredientes-y-materiales-)
-- [Proceso de Preparación ](#proceso-de-preparación-)
-- [Análisis Científico y Tiempos ](#análisis-científico-y-tiempos-)
-- [Referencias y Anexos ](#referencias-y-anexos-)
+- Ingredientes y Materiales
+- Proceso de Preparación
+- Análisis Científico y Tiempos
+- Referencias y Anexos
 
 ---
 
@@ -130,20 +130,37 @@ La cocina es pura química y matemáticas. Vamos a utilizar el lenguaje `LaTeX` 
 
 ### Fórmulas Matemáticas con LaTeX 
 
-1.  **Conversión de Temperatura (Fórmula en línea):** 
-    Para hornear, la receta pide 200°C. Si usamos un horno estadounidense, usamos la fórmula $F = (C \times \frac{9}{5}) + 32$ para obtener 392°F.
-2.  **Proporción Carne/Costra (Fórmula en línea):**
-    Una buena relación de peso entre la carne ($W_c$) y la envoltura ($W_e$) es crucial: $R = \frac{W_c}{W_e} \approx 1.5$.
-3.  **Cálculo del Área de Superficie del Solomillo (Cilindro) (Fórmula en bloque):**
-    Para saber cuánto hojaldre necesitamos, aproximamos la carne a un cilindro de radio $r$ y longitud $h$:
-     A = 2\pi r h + 2\pi r^2 
-4.  **Ley de Enfriamiento de Newton (Fórmula en bloque):**
-    Para calcular la tasa de enfriamiento del Wellington en la nevera antes de hornear:
-    $$ T(t) = T_a + (T_0 - T_a) e^{-kt} $$
-    Donde $T(t)$ es la temperatura en el tiempo $t$, y $T_a$ es la temperatura ambiente (de la nevera).
-5.  **Cálculo del Coste Total (Fórmula en bloque):**
-    Sumatorio del precio de $n$ ingredientes según su cantidad:
-     Coste\_Total = \sum_{i=1}^{n} (Precio\_Por\_Kilo_i \times Cantidad\_Kilos_i) 
+**1. Conversión de Temperatura (Fórmula en línea):**
+
+Para hornear, la receta pide 200°C. Si usamos un horno estadounidense, usamos la fórmula $F = (C \times \frac{9}{5}) + 32$ para obtener 392°F.
+
+**2. Proporción Carne/Costra (Fórmula en línea):**
+
+Una buena relación de peso entre la carne ($W_c$) y la envoltura ($W_e$) es crucial: $R = \frac{W_c}{W_e} \approx 1.5$.
+
+**3. Cálculo del Área de Superficie del Solomillo (Fórmula en bloque):**
+
+Para saber cuánto hojaldre necesitamos, aproximamos la carne a un cilindro de radio $r$ y longitud $h$:
+
+$$
+A = 2\pi r h + 2\pi r^2
+$$
+
+**4. Ley de Enfriamiento de Newton (Fórmula en bloque):**
+
+Para calcular la tasa de enfriamiento del Wellington en la nevera antes de hornear. Donde $T(t)$ es la temperatura en el tiempo $t$, y $T_a$ es la temperatura ambiente de la nevera:
+
+$$
+T(t) = T_a + (T_0 - T_a) e^{-kt}
+$$
+
+**5. Cálculo del Coste Total (Fórmula en bloque):**
+
+Sumatorio del precio ($P$) de los ingredientes ($n$) según su cantidad ($Q$):
+
+$$
+C_{total} = \sum_{i=1}^{n} (P_i \times Q_i)
+$$
 
 ---
 
