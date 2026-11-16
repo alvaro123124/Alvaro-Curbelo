@@ -15,7 +15,7 @@
 
 El **Solomillo Wellington** (o *Beef Wellington* en inglés) es una preparación clásica y elegante. Esta versión está basada en la famosa receta del chef británico ***Gordon Ramsay***. Es un plato que combina texturas crujientes, sabores intensos de la tierra y una carne jugosa.
 
-A lo largo de los años, esta receta ha sido ~~subestimada por muchos~~ considerada el **santo grial** de las celebraciones navideñas y cenas de gala. 
+A lo largo de los años, esta receta ha sido subestimada por muchos considerada el **santo grial** de las celebraciones navideñas y cenas de gala. 
 En este proyecto, no solo documentaremos cómo hacerlo, sino que analizaremos el proceso desde una perspectiva estructurada.
 
 <details>
