@@ -130,15 +130,15 @@ La cocina es pura química y matemáticas. Vamos a utilizar el lenguaje `LaTeX` 
 
 ### Fórmulas Matemáticas con LaTeX 
 
-**1. Conversión de Temperatura (Fórmula en línea):**
+**1. Conversión de Temperatura:**
 
 Para hornear, la receta pide 200°C. Si usamos un horno estadounidense, usamos la fórmula $F = (C \times \frac{9}{5}) + 32$ para obtener 392°F.
 
-**2. Proporción Carne/Costra (Fórmula en línea):**
+**2. Proporción Carne/Costra:**
 
 Una buena relación de peso entre la carne ($W_c$) y la envoltura ($W_e$) es crucial: $R = \frac{W_c}{W_e} \approx 1.5$.
 
-**3. Cálculo del Área de Superficie del Solomillo (Fórmula en bloque):**
+**3. Cálculo del Área de Superficie del Solomillo:**
 
 Para saber cuánto hojaldre necesitamos, aproximamos la carne a un cilindro de radio $r$ y longitud $h$:
 
@@ -146,7 +146,7 @@ $$
 A = 2\pi r h + 2\pi r^2
 $$
 
-**4. Ley de Enfriamiento de Newton (Fórmula en bloque):**
+**4. Ley de Enfriamiento de Newton:**
 
 Para calcular la tasa de enfriamiento del Wellington en la nevera antes de hornear. Donde $T(t)$ es la temperatura en el tiempo $t$, y $T_a$ es la temperatura ambiente de la nevera:
 
